@@ -4,7 +4,7 @@ import Pricecard from './components/Pricecard';
 
 function App() {
   const [count, setCount] = useState(0);
-  const data = [
+  const data =[
     {
       pricingtype: "FREE",
       price: 0,
